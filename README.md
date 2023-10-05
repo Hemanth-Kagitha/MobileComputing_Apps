@@ -21,3 +21,10 @@ class ViewController: UIViewController {
         }
     }
 }
+
+
+
+---------------------
+stringLabel.text = "Hello, World!" // Display a string
+intLabel.text = "\(42)" // Display an integer
+doubleLabel.text = "\(3.14159)" // Display a double
